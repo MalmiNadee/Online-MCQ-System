@@ -1,3 +1,4 @@
+Online MCQ System Web Application
 Clone this repository
 to run backend - cd backend
                  npm install
@@ -23,3 +24,5 @@ React.js for frontend UI
 React Router for navigation
 Axios for API requests
 CSS for styling
+Node.js Express for backend
+MySQL Database
